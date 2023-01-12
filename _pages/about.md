@@ -36,14 +36,20 @@ Xingxing Wei*, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao **I
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
+
+- [Parallel rectangle flip attack: A query-based black-box attack against object detection](https://arxiv.org/pdf/2008.00217.pdf), **Siyuan Liang**, Baoyuan Wu, Yanbo Fan, Xingxing Wei, Xiaochun Cao, **ICCV 2021**
+
+- [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://arxiv.org/abs/2209.07790), **Siyuan Liang**, Longkang Li, Yanbo Fan, Xiaojun Jia, Jingzhi Li, Baoyuan Wu, Xiaochun Cao, **ECCV 2022**
+
+- [Imitated Detectors: Stealing Knowledge of Black-box Object Detectors](https://scst.sysu.edu.cn/docs/20220718132716248974.pdf), **Siyuan Liang**,  Aishan Liu, Jiawei Liang, Longkang Li, Yang Bai, Xiaochun Cao, **ACMMM 2022**
+
+- [Improving Robust Fairness via Balance Adversarial Training](https://arxiv.org/pdf/2209.07534), Chunyu Sun, Chenye Xu, Chengyuan Yao, **Siyuan Liang**, Yichao Wu, Ding Liang, XiangLong Liu, Aishan Liu, **AAAI 2023**
+
+- [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization], Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiaochun Cao, **AAAI 2023**
 
 - [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
-- [Parallel rectangle flip attack: A query-based black-box attack against object detection](https://arxiv.org/pdf/2008.00217.pdf), **Siyuan Liang**, Baoyuan Wu, Yanbo Fan, Xingxing Wei, Xiaochun Cao, **ICCV 2021**
-- [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://arxiv.org/abs/2209.07790), **Siyuan Liang**, Longkang Li, Yanbo Fan, Xiaojun Jia, Jingzhi Li, Baoyuan Wu, Xiaochun Cao, **ECCV 2022**
-- [Imitated Detectors: Stealing Knowledge of Black-box Object Detectors](https://scst.sysu.edu.cn/docs/20220718132716248974.pdf), **Siyuan Liang**,  Aishan Liu, Jiawei Liang, Longkang Li, Yang Bai, Xiaochun Cao, **ACMMM 2022**
-- [Improving Robust Fairness via Balance Adversarial Training](https://arxiv.org/pdf/2209.07534), Chunyu Sun, Chenye Xu, Chengyuan Yao, **Siyuan Liang**, Yichao Wu, Ding Liang, XiangLong Liu, Aishan Liu, **AAAI 2023**
-- [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization], Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiaochun Cao, **ECCV 2020**
-- [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
+
 - [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
 
 # 🎖 Honors and Awards
