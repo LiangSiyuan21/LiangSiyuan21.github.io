@@ -29,7 +29,7 @@ Liang Siyuan is currently pursuing PhD academic committee in the State Key Labor
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
--[Transferable adversarial attacks for image and video object detection]
+- [Transferable adversarial attacks for image and video object detection]
 (https://arxiv.org/pdf/1811.12641.pdf) \
 Xingxing Wei*, **Siyuan Liang***, Ning Chen, Xiaochun Cao \
 International Joint Conference on Artificial Intelligence **IJCAI 2019** \
