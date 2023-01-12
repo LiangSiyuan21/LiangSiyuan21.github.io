@@ -19,23 +19,21 @@ redirect_from:
 
 Liang Siyuan is currently pursuing PhD academic committee in the State Key Laboratory of the Institute of Information Engineering, Chinese Academy of Sciences, under the tutelage of Professor Cao Xiaochun. During the doctoral period, the main research directions were adversarial machine learning and general object detection, including the security of object detection systems. She focuses on the research of robust, efficient, and practical anti-machine learning attack algorithms.
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- -->
+# 📝 PrePrints
+- [Rethinking Data Augmentation in Knowledge Distillation for Object Detection](https://arxiv.org/abs/2210.00557),
+Jiawei Liang, **Siyuan Liang(joint first author)**, Aishan Liu, Mingli Zhu, Danni Yuan, Chenye Xu, Xiaochun Cao
+
+- [Exploring the Relationship between Architecture and Adversarially Robust Generalization](https://arxiv.org/abs/2209.14105),
+Shiyu Tang, **Siyuan Liang(joint first author)**, Ruihao Gong, Aishan Liu, Xianglong Liu, Dacheng Tao
+
+- [Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning](https://arxiv.org/pdf/2210.17178),
+Longkang Li, **Siyuan Liang(joint first author)**, Zihao Zhu, Xiaochun Cao, Chris Ding, Hongyuan Zha, Baoyuan Wu
  
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
 - [Transferable adversarial attacks for image and video object detection](https://arxiv.org/pdf/1811.12641.pdf),
-Xingxing Wei*, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao **IJCAI 2019**
+Xingxing Wei, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao **IJCAI 2019**
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
 - [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
 
 - [Parallel rectangle flip attack: A query-based black-box attack against object detection](https://arxiv.org/pdf/2008.00217.pdf), **Siyuan Liang**, Baoyuan Wu, Yanbo Fan, Xingxing Wei, Xiaochun Cao, **ICCV 2021**
@@ -48,9 +46,7 @@ Xingxing Wei*, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao **I
 
 - [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization], Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiaochun Cao, **AAAI 2023**
 
-- [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
 
-- [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, School of Cyberspace Security, Computer Application Technology, ac tempus justo dapibus sit amet. 
