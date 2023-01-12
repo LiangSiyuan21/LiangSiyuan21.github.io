@@ -32,7 +32,7 @@ Longkang Li, **Siyuan Liang(joint first author)**, Zihao Zhu, Xiaochun Cao, Chri
 # 📝 Publications 
 
 - [Transferable adversarial attacks for image and video object detection](https://arxiv.org/pdf/1811.12641.pdf),
-Xingxing Wei, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao **IJCAI 2019**
+Xingxing Wei, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao, **IJCAI 2019**
 
 - [Efficient adversarial attacks for visual object tracking](https://arxiv.org/pdf/2201.08970), **Siyuan Liang**, Xingxing Wei, Siyuan  Yao, Xiaochun Cao, **ECCV 2020**
 
