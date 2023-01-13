@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Liang Siyuan is currently pursuing Ph.D. academic committee in the State Key Laboratory of the Institute of Information Engineering, Chinese Academy of Sciences, under the tutelage of Professor Cao Xiaochun. During the doctoral period, the main research directions were adversarial machine learning and general object detection, including the security of object detection systems. She focuses on the research of robust, efficient, and practical anti-machine learning attack algorithms.
+Liang Siyuan is currently pursuing Ph.D. academic committee in the State Key Laboratory of the Institute of Information Engineering, Chinese Academy of Sciences, under the tutelage of Professor **Xiaochun Cao**. During the doctoral period, the main research directions were adversarial machine learning and general object detection, including the security of object detection systems. She focuses on the research of robust, efficient, and practical anti-machine learning attack algorithms.
  
 # 📝 Publications 
 
