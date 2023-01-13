@@ -44,19 +44,21 @@ Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiao
 
 
 # 📖 Educations
-- *August 2018 - Now*, University of Chinese Academy of Sciences, School of Cyberspace Security, Computer Application Technology, Ph.D. student. 
-- *August 2014 - June 2018*, SICHUAN UNIVERSITY, College of Software Engineering.Bachelor of Engineering Software Engineering. 
+- *August 2018 - Now*      ,   
+University of Chinese Academy of Sciences, School of Cyberspace Security, Computer Application Technology, Ph.D. student. 
+- *August 2014 - June 2018*,   
+SICHUAN UNIVERSITY, College of Software Engineering, Engineering Software Engineering, Bachelor.
 
 # 💬 Professional Service
-- Reviewer: NeurIPS, AAAI, CVPR, IJCAI, ECCV, IEEE TCSVT, IEEE TMM, Pattern Recognition
-- Program Committee of Workshop:   
+- *Reviewer*: NeurIPS, AAAI, CVPR, IJCAI, ECCV, IEEE TCSVT, IEEE TMM, Pattern Recognition
+- *Program Committee of Workshop:*   
  Practical Deep Learning in the Wild, **AAAI workshop 2023**  
  The Art of Robustness: Devil and Angel in Adversarial Machine Learning, **CVPR workshop 2022**
 
 
 # 💻 Internships
 - *Jun 2021 - Jun 2022*, Tencent, AI Lab & Data Platform, ShenZhen China.
-- *Sep 2022 - Now*, Huawei, Trustworthiness Theory, Technology & Engineering Lab, ShenZhen China.
+- *Sep 2022 - Now*     , Huawei, Trustworthiness Theory, Technology & Engineering Lab, ShenZhen China.
 
 # 📝 PrePrints
 - [Rethinking Data Augmentation in Knowledge Distillation for Object Detection](https://arxiv.org/abs/2210.00557),  
