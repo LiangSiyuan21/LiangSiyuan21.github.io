@@ -34,7 +34,7 @@ Xingxing Wei, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao, **I
 
 - [Improving Robust Fairness via Balance Adversarial Training](https://arxiv.org/pdf/2209.07534), Chunyu Sun, Chenye Xu, Chengyuan Yao, **Siyuan Liang**, Yichao Wu, Ding Liang, XiangLong Liu, Aishan Liu, **AAAI 2023**
 
-- [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization], Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiaochun Cao, **AAAI 2023**
+- Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization, Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiaochun Cao, **AAAI 2023**
 
 
 # 📖 Educations
