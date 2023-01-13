@@ -18,16 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Liang Siyuan is currently pursuing PhD academic committee in the State Key Laboratory of the Institute of Information Engineering, Chinese Academy of Sciences, under the tutelage of Professor Cao Xiaochun. During the doctoral period, the main research directions were adversarial machine learning and general object detection, including the security of object detection systems. She focuses on the research of robust, efficient, and practical anti-machine learning attack algorithms.
-
-# 📝 PrePrints
-- [Rethinking Data Augmentation in Knowledge Distillation for Object Detection](https://arxiv.org/abs/2210.00557),
-Jiawei Liang, **Siyuan Liang(joint first author)**, Aishan Liu, Mingli Zhu, Danni Yuan, Chenye Xu, Xiaochun Cao
-
-- [Exploring the Relationship between Architecture and Adversarially Robust Generalization](https://arxiv.org/abs/2209.14105),
-Shiyu Tang, **Siyuan Liang(joint first author)**, Ruihao Gong, Aishan Liu, Xianglong Liu, Dacheng Tao
-
-- [Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning](https://arxiv.org/pdf/2210.17178),
-Longkang Li, **Siyuan Liang(joint first author)**, Zihao Zhu, Xiaochun Cao, Chris Ding, Hongyuan Zha, Baoyuan Wu
  
 # 📝 Publications 
 
@@ -47,18 +37,27 @@ Xingxing Wei, **Siyuan Liang(joint first author)**, Ning Chen, Xiaochun Cao, **I
 - [Generating Transferable 3D Adversarial Point Cloud via Random Perturbation Factorization], Bangyan He, Jian Liu, Yiming Li, **Siyuan Liang**, Jingzhi Li, Xiaojun Jia, Xiaochun Cao, **AAAI 2023**
 
 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, School of Cyberspace Security, Computer Application Technology, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *August 2018 - Now*, University of Chinese Academy of Sciences, School of Cyberspace Security, Computer Application Technology, Ph.D. student. 
 - *August 2014 - June 2018*, SICHUAN UNIVERSITY, College of Software Engineering.Bachelor of Engineering Software Engineering. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Professional Service
+- Reviewer: NeurIPS, AAAI, CVPR, IJCAI, ECCV, IEEE TCSVT, IEEE TMM, Pattern Recognition
+- Program Committee of Workshop: 
+Practical Deep Learning in the Wild, **AAAI workshop 2023**
+The Art of Robustness: Devil and Angel in Adversarial Machine Learning, **CVPR workshop 2022**
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *Jun 2021 - Jun 2022*, Tencent, AI Lab & Data Platform, ShenZhen China.
+- *Sep 2022 - Now*, Huawei, Trustworthiness Theory, Technology & Engineering Lab, ShenZhen China.
+
+# 📝 PrePrints
+- [Rethinking Data Augmentation in Knowledge Distillation for Object Detection](https://arxiv.org/abs/2210.00557),
+Jiawei Liang, **Siyuan Liang(joint first author)**, Aishan Liu, Mingli Zhu, Danni Yuan, Chenye Xu, Xiaochun Cao
+
+- [Exploring the Relationship between Architecture and Adversarially Robust Generalization](https://arxiv.org/abs/2209.14105),
+Shiyu Tang, **Siyuan Liang(joint first author)**, Ruihao Gong, Aishan Liu, Xianglong Liu, Dacheng Tao
+
+- [Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning](https://arxiv.org/pdf/2210.17178),
+Longkang Li, **Siyuan Liang(joint first author)**, Zihao Zhu, Xiaochun Cao, Chris Ding, Hongyuan Zha, Baoyuan Wu
