@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a research fellow at the School of Computing, National University of Singapore. I obtained my Ph.D. in 2023, graduating from the State Key Laboratory of the Institute of Information Engineering, Chinese Academy of Sciences, under the tutelage of Professor Xiaochun Cao. I received my bachelor's degree in 2018 from the Innovation Class at the School of Software Engineering, Sichuan University.
 
-My research interests span machine learning and computer vision, including trustworthy machine learning and security for deep target detection. In addition, I maintain a strong interest in the security of multimodal foundational models.
+My research interests span machine learning and computer vision, including trustworthy machine learning and security for deep object detection. In addition, I maintain a strong interest in the security of multimodal foundational models.
  
 # 📝 Publications 
 
