@@ -71,6 +71,12 @@ Xin Dong, Rui Wang, **Siyuan Liang**, Aishan Liu, Lihua Jing, **ACMMM 2023**
 - [Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning](https://arxiv.org/pdf/2210.17178.pdf),  
 Longkang Li, **Siyuan Liang**, Zihao Zhu, Xiaochun Cao, Chris Ding, Hongyuan Zha, Baoyuan Wu, **AAAI 2024**
 
+- [Correlation Matching Transformation Transformers for UHD Image Restoration],  
+Cong Wang, Jinshan Pan, Wei Wang, Gang Fu, **Siyuan Liang**, Mengzhu Wang, Xiao-Ming Wu, Jun Liu, **AAAI 2024**
+
+- [Does Few-shot Learning Suffer from Backdoor Attacks?],  
+Xinwei Liu, Xiaojun jia, Jingdong gu, Yuan Xun, **Siyuan Liang**, Xiaochun Cao, **AAAI 2024**
+
 # 📖 Educations
 - *August 2023 - Now*      ,   
 School of Computing, National University of Singapore, Research Fellow. 
