@@ -69,12 +69,12 @@ Jiawei Liang, **Siyuan Liang(corresponding author)**, Aishan Liu, Ke Ma, Jingzhi
 Xin Dong, Rui Wang, **Siyuan Liang**, Aishan Liu, Lihua Jing, **ACMMM 2023**
 
 - [Learning to Optimize Permutation Flow Shop Scheduling via Graph-based Imitation Learning](https://arxiv.org/pdf/2210.17178.pdf),  
-Longkang Li, **Siyuan Liang**, Zihao Zhu, Xiaochun Cao, Chris Ding, Hongyuan Zha, Baoyuan Wu, **AAAI 2024**
+Longkang Li, **Siyuan Liang**, Zihao Zhu, Chris Ding, Hongyuan Zha, Baoyuan Wu, **AAAI 2024**
 
-- [Correlation Matching Transformation Transformers for UHD Image Restoration],  
+- Correlation Matching Transformation Transformers for UHD Image Restoration,  
 Cong Wang, Jinshan Pan, Wei Wang, Gang Fu, **Siyuan Liang**, Mengzhu Wang, Xiao-Ming Wu, Jun Liu, **AAAI 2024**
 
-- [Does Few-shot Learning Suffer from Backdoor Attacks?],  
+- Does Few-shot Learning Suffer from Backdoor Attacks?,  
 Xinwei Liu, Xiaojun jia, Jingdong gu, Yuan Xun, **Siyuan Liang**, Xiaochun Cao, **AAAI 2024**
 
 # 📖 Educations
@@ -86,7 +86,7 @@ University of Chinese Academy of Sciences, School of Cyberspace Security, Comput
 SICHUAN UNIVERSITY, College of Software Engineering, Engineering Software Engineering, Bachelor.
 
 # 💬 Professional Service
-- *Reviewer*: TPAMI, NeurIPS, AAAI, CVPR, IJCAI, ECCV, IEEE TCSVT, IEEE TMM, ICCV, ICLR, ICML, Pattern Recognition, 
+- *Reviewer*: TPAMI, NeurIPS, AAAI, CVPR, IJCAI, ECCV, IEEE TCSVT, IEEE TMM, ICCV, ICLR, ICML, Pattern Recognition
 - *Program Committee of Workshop:*   
  Practical Deep Learning in the Wild, **AAAI workshop 2023**  
  The Art of Robustness: Devil and Angel in Adversarial Machine Learning, **CVPR workshop 2022**
